@@ -1,0 +1,13 @@
+nombre,categoria,precio,stock
+Arroz,Alimentos,4,40
+Cafe,Alimentos,8,15
+Pasta,Alimentos,2,0
+Jabon,Hogar,3,22
+Toalla,Hogar,12,8
+Lampara,Hogar,20,4
+Mouse,Tecnologia,18,12
+Teclado,Tecnologia,32,0
+Monitor,Tecnologia,150,3
+Cuaderno,Papeleria,5,30
+Lapiz,Papeleria,1,60
+Mochila,Papeleria,25,6
